@@ -2,7 +2,7 @@
 
 #UFCG - Programação I - 2018.1
 #Aluno: Ezequias Rocha
-#Questão: Percentagem de aprovados - Unidade 1
+#Questão: Percentagem de aprovados - Unidade: 1
 
 print 'Análise da Turma'
 print '==='

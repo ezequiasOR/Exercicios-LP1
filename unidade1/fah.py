@@ -2,7 +2,7 @@
 
 # UFGC - Programação I - 2018.1
 # Aluno: Ezequias Rocha
-# Questão: Fahrenheit Celsius - Unidade: 1
+# Questão: Fahrenheit Celsius - Unidade 1
 
 fah = float(raw_input())
 cel = (fah - 32) * 5 / 9
